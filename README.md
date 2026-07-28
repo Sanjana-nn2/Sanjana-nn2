@@ -1,3 +1,4 @@
+![Banner](Formal1.jpeg)
 # Hi 👋 I'm Sanjana
 
 🎓 Information Science Engineering Student  
