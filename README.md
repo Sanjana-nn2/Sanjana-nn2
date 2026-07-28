@@ -1,4 +1,4 @@
-![Banner](Formal1.jpeg)
+![Banner](banner.svg)
 # Hi 👋 I'm Sanjana
 
 🎓 Information Science Engineering Student  
