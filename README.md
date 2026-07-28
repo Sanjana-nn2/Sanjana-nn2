@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Sanjana
 
-<!--
-**Sanjana-nn2/Sanjana-nn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student  
+💻 Interested in Full Stack Development & Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Plant Health Diagnosis System
+Machine Learning based multi-class disease and nutrient deficiency detection for Ondelaga plants.
+
+### 📚 Placement Preparation Tracker
+A MERN stack application to track coding practice, topics, tests and placement preparation.
+
+### 🏥 Hospital Queue Management System
+Real-time hospital queue management system with ETA prediction and notifications.
+
+## 🛠️ Skills
+
+- Python
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+- Flask
+- Machine Learning
+
+## 📫 Connect with me
+
+GitHub: github.com/Sanjana-nn2
